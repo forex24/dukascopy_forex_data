@@ -1,0 +1,1 @@
+#Dukascopy forex tick data
